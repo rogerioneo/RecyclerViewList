@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView List</string>
+    <string name="busca">Busca</string>
+    <string name="localizar_um_item">Localizar um item</string>
+</resources>
