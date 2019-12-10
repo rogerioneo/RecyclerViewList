@@ -53,6 +53,26 @@ public class MainActivity extends AppCompatActivity {
                 new Itens("A Garota do Lago",
                         "Donlea,Charlie", 11.90, R.drawable.a_garota_do_lago)
         );
+        listaDeItens.add(
+                new Itens("A senhora de Avalon: Terceiro livro do ciclo de Avalon",
+                        "Marion Zimmer Bradley", 61.40, R.drawable.a_senhora_de_avalon)
+        );
+        listaDeItens.add(
+                new Itens("Livro - Box Percy Jackson e os Olimpianos (5 Volumes)",
+                        "Rick Riordan", 96.37, R.drawable.percy_jackson)
+        );
+        listaDeItens.add(
+                new Itens("Seres Mágicos & Histórias Sombrias",
+                        "Neil Gaiman, Al Sarrantonio, Regiane Winarski", 63.12, R.drawable.seres_magicos)
+        );
+        listaDeItens.add(
+                new Itens("O menino do pijama listrado",
+                        "John Boyne", 29.90, R.drawable.o_menino_de_pijama_listrado)
+        );
+        listaDeItens.add(
+                new Itens("O Cacador De Pipas",
+                        "Hosseini, Khaled", 39.90, R.drawable.o_cacador_de_pipas)
+        );
 
     }
 }
